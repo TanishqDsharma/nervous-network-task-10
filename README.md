@@ -2,7 +2,7 @@
 
 1) <b>A screenshot of the console output immediately after running the "unlock" command.</b>
     
-    <img src="https://github.com/TanishqDsharma/nervous-network-task-10/blob/main/task10.png">
+    <img src="https://github.com/TanishqDsharma/nervous-network-task-10/blob/main/task.png">
     
     
     <img src="https://github.com/TanishqDsharma/nervous-network-task-10/blob/main/task10.2.png">
