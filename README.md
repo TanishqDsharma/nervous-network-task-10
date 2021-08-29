@@ -2,7 +2,6 @@
 
 1) <b>A screenshot of the console output immediately after running the "unlock" command.</b>
       
-      <img src="https://github.com/TanishqDsharma/nervous-network-task-10/blob/main/task10.png">
 
 2) <b>The Ethereum address that you've used for your Layer 2 account (in text format).</b>
       
